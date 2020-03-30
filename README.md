@@ -2,7 +2,7 @@
 
 This is where I will store the codes and scripts I use in game in Arma 3
 
-Firstly the server modlist is here as a download
+Download the latest Full Server Modlist Here
 
 Regards to all
 
